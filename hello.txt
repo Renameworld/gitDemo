@@ -1,3 +1,4 @@
 hello git!
 modifyFirst!
 modifySecond!
+There is master!
